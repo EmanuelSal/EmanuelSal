@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skils em desenvolvimento 🚀
+## Skills em desenvolvimento 🚀
 
 <div style="display: inline_block"><br/>
   <img align="center"  alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
